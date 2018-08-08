@@ -19,7 +19,7 @@
                 "command": "C:/Program Files/Java/jdk1.8.0_181/bin/java.exe"
             },
             "args": [
-                "-cp","../stdlib/stdlib.jar;","${fileBasenameNoExtension}"
+                "-cp","./stdlib.jar;","${fileBasenameNoExtension}"
             ]
 
 
